@@ -11,6 +11,10 @@ https://www.javadrive.jp/sqlite/ini/index1.html
 ```
 $ sqlite3 construct.d
 ```
+### sqlite_sequenceテーブル
+sqlite_sequence テーブルは、SQLite の内部で自動的に作成される特別なテーブルです。
+このテーブルは、AUTOINCREMENT キーワードを使用して生成された、各テーブルの整数型のプライマリーキーの値を追跡するために使用されます。
+
 ## DB Browser for SQLite
 https://ja.ubunlog.com/sqlite-3-y-sqlitebrowser-como-instalarlos-en-ubuntu/
 
