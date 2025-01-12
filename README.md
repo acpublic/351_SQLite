@@ -7,6 +7,8 @@
 ## コマンド
 https://www.javadrive.jp/sqlite/ini/index1.html
 
+## DB Browser for SQLite
+https://ja.ubunlog.com/sqlite-3-y-sqlitebrowser-como-instalarlos-en-ubuntu/
 
 ## Android
 https://developer.android.com/tools/sqlite3?hl=ja
