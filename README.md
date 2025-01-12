@@ -7,6 +7,10 @@
 ## コマンド
 https://www.javadrive.jp/sqlite/ini/index1.html
 
+### データベースの作成(存在する場合は実行)
+```
+$ sqlite3 construct.d
+```
 ## DB Browser for SQLite
 https://ja.ubunlog.com/sqlite-3-y-sqlitebrowser-como-instalarlos-en-ubuntu/
 
