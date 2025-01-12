@@ -4,6 +4,10 @@
 - トランザクションサポートによるデータ整合性の確保：ACID（Atomicity、Consistency、Isolation、Durability）トランザクションのサポート
 - クロスプラットフォームへの対応：Windows、Linux、macOSなど、多くのプラットフォームで動作可能 PCやスマートデバイスなど、さまざまなデバイスでも利用できる
 
+## コマンド
+https://www.javadrive.jp/sqlite/ini/index1.html
+
+
 ## Android
 https://developer.android.com/tools/sqlite3?hl=ja
 ```
