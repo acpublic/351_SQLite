@@ -9,7 +9,7 @@ https://www.javadrive.jp/sqlite/ini/index1.html
 
 ### データベースの作成(存在する場合は実行)
 ```
-$ sqlite3 construct.d
+$ sqlite3 construct.db
 ```
 ### sqlite_sequenceテーブル
 sqlite_sequence テーブルは、SQLite の内部で自動的に作成される特別なテーブルです。
